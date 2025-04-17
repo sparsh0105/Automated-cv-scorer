@@ -2,6 +2,7 @@
 This project automates the processing of resumes, extracting and masking personal information, scoring the resumes based on job description (JD) match, and sending feedback emails to applicants.
 
 Features
+
 Resume Processing: Extracts personal details (name, email) and masks them for privacy.
 
 Scoring System: Computes a score based on JD-CV match.
