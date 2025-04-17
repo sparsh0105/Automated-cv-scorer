@@ -22,18 +22,25 @@ Step 2: Set up a virtual environment
 Create a virtual environment to isolate the dependencies:
 
 python -m venv venv
+
 Activate the virtual environment:
 
 Windows:
+
 .\venv\Scripts\activate
 
 Install dependencies
+
 Install the required libraries using pip:
+
 pip install -r requirements.txt
 
 Set up environment variables
 Create a .env file in the project root directory to store sensitive information (like email credentials):
+
 EMAIL_USER=your_email@example.com
+
 EMAIL_PASS=your_email_password
+
 Make sure to replace your_email@example.com and your_email_password with your actual email credentials.
 
