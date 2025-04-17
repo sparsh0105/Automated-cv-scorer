@@ -45,3 +45,4 @@ EMAIL_PASS=your_email_password
 
 Make sure to replace your_email@example.com and your_email_password with your actual email credentials.
 
+Note: change folder path in code with your respective path
