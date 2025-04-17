@@ -43,6 +43,8 @@ EMAIL_USER=your_email@example.com
 
 EMAIL_PASS=your_email_password
 
+**Generate an App Password: https://myaccount.google.com/apppasswords**
+
 Make sure to replace your_email@example.com and your_email_password with your actual email credentials.
 
 Note: change folder path in code with your respective path
